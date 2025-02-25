@@ -18,7 +18,6 @@ function plaatsBod() {
     hoogsteBod = bod;
     hoogsteBieder = naam;
 
-    // UI bijwerken
     document.getElementById('hoogsteBod').innerText = hoogsteBod;
     document.getElementById('hoogsteBieder').innerText = hoogsteBieder;
 
